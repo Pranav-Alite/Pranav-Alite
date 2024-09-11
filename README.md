@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pranav-Alite
+- 👋 Hi, I’m Pranav Mistry
 - 👀 I’m interested in Developement of the Worldly Excited JavaScript
 
 <!---
